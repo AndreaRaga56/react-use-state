@@ -1,0 +1,13 @@
+.footer{
+    background-color: #333333;
+    width: 100%;
+    min-height: 10px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.paragrafo{
+    width: 80%;
+    margin: 0 auto;
+}

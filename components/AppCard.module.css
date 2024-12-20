@@ -1,0 +1,34 @@
+.card{
+    margin: 0 auto;
+    width: 450px;
+    margin-top: 30px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 40px rgb(0, 0, 0);
+}
+
+.immagine{
+    max-width: 100%;
+    border-radius: 25px 25px 0px 0px;
+}
+
+.titoloPost{
+    margin: 15px;
+}
+
+.paragrafo{
+    margin: 15px 15px 0px;
+}
+
+.tag{
+    margin: 15px 15px 0px;
+}
+
+.button{
+    color: white;
+    padding: 0.3rem 0.6rem;
+    border-radius: 7px;
+    background-color: #DAA521;
+    display: inline-block;
+    margin: 15px;
+}
+
