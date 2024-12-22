@@ -15,3 +15,32 @@
     padding: 8px;
 }
 
+.HTML{
+background-color: rgb(198, 13, 185) !important;
+color: white;
+}
+
+.CSS{
+    background-color: red !important;
+    color: white;
+}
+
+.JavaScript{
+    background-color: orange !important;
+    color: white;
+}
+
+.NODE{
+    background-color: rgb(213, 195, 27) !important;
+    color: white;
+}
+
+.Express{
+    background-color: rgb(27, 212, 61) !important;
+    color: white;
+}
+
+.ReactJS{
+    background-color: rgb(1, 101, 19) !important;
+    color: white;
+}
